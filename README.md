@@ -1,16 +1,17 @@
-## Hi there 👋
+## Ola Seja bem vindo ao perfil😀
 
-<!--
-**LucasAntonioMendes/LucasAntonioMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouco sobre mim:
 
-Here are some ideas to get you started:
+sou um estudate de Desinvolvimento de sistemas no Intituto Forja com parceria com o Senai
+e estou termindo o meu primeiro ano de curso 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estas são agumas linguagens e tecnologias que estou aprendendo :
+
+<div style = "display: inline_block"><br>
+<img aling="center" alt="lucas-C" height ="30" width="40"
+  img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" >
+          
+<img aling ="center" alt="lucas-Python" height ="30" width="40"
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
+
+</div>      
