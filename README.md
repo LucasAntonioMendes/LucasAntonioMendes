@@ -1,4 +1,4 @@
-## Ola Seja bem vindo ao perfil😀
+## Ola Seja bem vindo ao meu perfil😀
 
 Um pouco sobre mim:
 
